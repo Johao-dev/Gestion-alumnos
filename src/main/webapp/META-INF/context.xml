@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Context path="/crud_mvc">
+  <Resource auth="Container" driverClassName="com.mysql.cj.jdbc.Driver" 
+            maxActive="20" maxIdle="10" maxWait="-1" name="jdbc/crud_mvcPU"
+            password="zuzz" type="javax.sql.DataSource" 
+            url="jdbc:mysql://localhost:3306/senati_curso?zeroDateTimeBehavior=CONVERT_TO_NULL" 
+            username="zuzz"/>
+</Context>
